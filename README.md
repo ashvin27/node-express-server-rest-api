@@ -1,6 +1,5 @@
 # Simple Node with Express Server with REST API
 
-
 An easy way to get started with a Express server offering a REST API with Node.js. [Read more about it.](https://www.robinwieruch.de/node-express-server-rest-api)
 
 ## Features
